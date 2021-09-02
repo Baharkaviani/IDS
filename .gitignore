@@ -17,5 +17,11 @@ HW/HW5/images
 report/images
 
 # films
+HW/*.mp4
+HW/*.m4v
 presentation/*.mp4
+
+# other files
 presentation/*.txt
+HW/HW2/*.txt
+HW/*.pdf
