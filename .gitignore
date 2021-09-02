@@ -4,11 +4,18 @@
 # Libraries
 research/highLigth/*
 
-# microsoft word files
+# microsoft files
 HW/HW1/*.docx
 HW/HW2/*.docx
 HW/HW3/*.docx
 HW/HW5/*.pptx
-HW/HW5/images
 HW/HW6/*.docx
 HW/HW7/*.docx
+
+# images
+HW/HW5/images
+report/images
+
+# films
+presentation/*.mp4
+presentation/*.txt
